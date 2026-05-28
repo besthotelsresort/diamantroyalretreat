@@ -1,0 +1,2 @@
+# diamantroyalretreat
+Static site: diamantroyalretreat
